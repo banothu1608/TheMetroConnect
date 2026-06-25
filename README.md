@@ -291,4 +291,3 @@ Built as a Data Structures & Algorithms project demonstrating practical applicat
 
 ---
 
-> *"The best code is not just correct — it is clean, maintainable, and solves real problems elegantly."*
